@@ -15,7 +15,7 @@ Flask-SQLAlchemy==2.4.0
 Flask-SimpleLDAP==1.4.0
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 jmespath==0.9.4
 lml==0.0.9
 MarkupSafe==1.1.1
