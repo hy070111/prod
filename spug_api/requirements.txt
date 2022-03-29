@@ -20,7 +20,7 @@ jmespath==0.9.4
 lml==0.0.9
 MarkupSafe==1.1.1
 packaging==19.0
-paramiko==2.4.2
+paramiko==2.10.1
 pip-review==1.0
 pyasn1==0.4.5
 pycparser==2.19
